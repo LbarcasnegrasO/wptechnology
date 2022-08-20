@@ -26,7 +26,6 @@ $('#leerMas').click(function(){
     Swal.fire({
        icon: 'error',
        title: 'Oops...',
-       text: 'Lo sentimos aun no tenemos lista la tienda <br> Notificaremos cuando este lista!',
-       footer: '<a href="">Why do I have this issue?</a>'
+       text: 'Lo sentimos aun no tenemos lista la tienda \n Notificaremos cuando este lista!',
     })
  });
