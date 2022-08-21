@@ -26,6 +26,6 @@ $('#leerMas').click(function(){
     Swal.fire({
        icon: 'error',
        title: 'Oops...',
-       text: 'Lo sentimos aun no tenemos lista la tienda \n Notificaremos cuando este lista!',
+       text: 'Lo sentimos aun no tenemos la tienda activa \n Notificaremos cuando este lista!',
     })
  });
